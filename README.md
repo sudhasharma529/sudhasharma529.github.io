@@ -15,18 +15,20 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - **Machine Learning**: Regression, k-means, kNN, Naive Bayes, SVM, PCA, LDA, ROC analysis
 - **Math & Statistics**: Probability & Statistics, Calculus, Linear Algebra
 - **Scientific Communication**: Expert and Public
-
+## Certifications
+- **Postgraduate Program in Data Science & Business Analytics**  *UT Austin, United States*  *2022-23*
+- **Computational Neuroscience**, Neuromatch Academy, *2020*
+  
 ## Experience
 
 **Postdoctoral Associate**  *Baylor College of Medicine*  *Houston, Texas, United States*  *2021-present*
+- Studying how action timing is achieved by motor programming. 
+- Developing methods to analyze high-dimensional data to study magnetic sensing in free-moving birds. 
+- Developed and presented an LSTM neural network to predict performance based on the initial state.
 
-- Developing methods to analyze high-dimensional data to study magnetic sensing in free-moving birds.
-
-**Postgraduate Program in Data Science & Business Analytics**  *UT Austin, United States*  *2022-23*
-
-- Coursework in Computational Neuroscience in Python.
-- Developed and presented an LSTM neural network to predict performance based on the initial state to field experts.
-
+**Data Science & Business Analytics**
+ -Extensive experience studying datasets and producing actionable business insights and strategic recommendations. 
+ 
 **PhD Dissertation**  *IIT Kharagpur*  *West Bengal, India*  *2015-2021*
 
 - Signal analysis to study multisensory neural processing.
@@ -39,13 +41,13 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 
 **Project Assistant**  *National Brain Research Center*  *Manesar, India*  *2012-2014*
 
+- Analyzed audio recordings to perform statistical analysis to study changes in the acoustical properties of bird songs.
 - Managed operational requirements of the lab.
-- Performed statistical analysis of the changes in the acoustical properties of bird song after pharmacological manipulations.
 
 **Master's Dissertation**  *Jawaharlal Nehru University* *New Delhi, India*  *2010-2012*
 
-- Performed statistical analysis of the anxiety behavior in zebrafish.
-- Published and presented the work in front of expert audience.
+- Analyzed video database, involving image processing to obtain clean data, followed by statistical analysis to study anxiety behavior in zebrafish.
+- Published and presented the work in front of an expert audience.
 
 ## Education
 
