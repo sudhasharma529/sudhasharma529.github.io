@@ -1,7 +1,7 @@
 # Sudha Sharma, Ph.D.
 
 - 📍 Location: Houston, Texas
-- 📞 Phone: 832-597-5008
+- 📞 Phone: +1 832-597-5008
 - ✉️ Email: sudhasharma529@gmail.com
 
 ## About Me
