@@ -17,24 +17,16 @@ Passionate neuroscientist with a Ph.D. in Neuroscience with expertise in data-dr
 
 ## Experience
 
-**Postdoctoral Associate**  
-*Baylor College of Medicine*  
-*Houston, Texas, United States*  
-*2021-present*
+**Postdoctoral Associate**  *Baylor College of Medicine*  *Houston, Texas, United States*  *2021-present*
 
 - Developing methods to analyze high-dimensional data to study magnetic sensing in free-moving birds.
 
-**Postgraduate Program in Data Science & Business Analytics**  
-*UT Austin, United States*  
-*2022-23*
+**Postgraduate Program in Data Science & Business Analytics**  *UT Austin, United States*  *2022-23*
 
 - Coursework in Computational Neuroscience in Python.
 - Developed and presented an LSTM neural network to predict performance based on the initial state to field experts.
 
-**Graduate Researcher**  
-*IIT Kharagpur*  
-*West Bengal, India*  
-*2015-2021*
+**PhD Dissertation**  *IIT Kharagpur*  *West Bengal, India*  *2015-2021*
 
 - Signal analysis to study multisensory neural processing.
 - Developed hardware-software interface for recording neural signals.
@@ -44,18 +36,12 @@ Passionate neuroscientist with a Ph.D. in Neuroscience with expertise in data-dr
 - Compiled and wrote manuscripts leading to publications and presentations in international conferences.
 - Supervised and collaborated with new recruits.
 
-**Project Assistant**  
-*National Brain Research Center*  
-*Manesar, India*  
-*2012-2014*
+**Project Assistant**  *National Brain Research Center*  *Manesar, India*  *2012-2014*
 
 - Managed operational requirements of the lab.
 - Performed statistical analysis of the changes in the acoustical properties of bird song after pharmacological manipulations.
 
-**Dissertation**  
-*Jawaharlal Nehru University*  
-*New Delhi, India*  
-*2010-2012*
+**Master's Dissertation**  *Jawaharlal Nehru University* *New Delhi, India*  *2010-2012*
 
 - Performed statistical analysis of the anxiety behavior in zebrafish.
 - Published and presented the work in front of expert audience.
