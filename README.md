@@ -6,14 +6,15 @@
 
 ## About Me
 
-Passionate neuroscientist with a Ph.D. in Neuroscience with expertise in data-driven insights. Experienced in complex data problem-solving and skilled in Critical thinking, Project Management, and Communication.
+Passionate neuroscientist with a Ph.D. in data-driven insights to understand the intricate workings of the brain. Experienced in complex data problem-solving and skilled in Critical thinking and Project Management. 
+
 
 ## Skills
 
 - **Programming**: Python, MATLAB
 - **Machine Learning**: Regression, k-means, kNN, Naive Bayes, SVM, PCA, LDA, ROC analysis
 - **Math & Statistics**: Probability & Statistics, Calculus, Linear Algebra
-- **Scientific Communication**: Technical & Non-expert
+- **Scientific Communication**: Expert and Public
 
 ## Experience
 
@@ -61,7 +62,7 @@ Passionate neuroscientist with a Ph.D. in Neuroscience with expertise in data-dr
 
 ## Interests
 
-Passionate about easing self-sustainability.
+Leveraging my research experience to pursue my passion to solve complex data problems, in a broader and more versatile context. Easing self-sustainability with the help of AI.
 
 ## Publications
 
