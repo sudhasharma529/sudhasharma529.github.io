@@ -6,7 +6,7 @@
 
 ## About Me
 
-Passionate neuroscientist with a Ph.D. and expertise in data-driven insights. Experienced in complex data problem-solving and skilled in programming, machine learning, and scientific communication.
+Passionate neuroscientist with a Ph.D. in Neuroscience with expertise in data-driven insights. Experienced in complex data problem-solving and skilled in programming, machine learning, and scientific communication.
 
 ## Skills
 
