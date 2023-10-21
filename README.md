@@ -6,7 +6,7 @@
 
 ## About Me
 
-My journey began with a profound passion for understanding the intricate workings of the human brain, leading me to complete my Ph.D. in neuroscience. I developed a deep appreciation for the power of data-driven insights during my Ph.D. I anticipate leveraging my research experience to pursue my passion to solve complex data problems, now in a broader and more versatile context.
+Passionate neuroscientist with a Ph.D. and expertise in data-driven insights. Experienced in complex data problem-solving and skilled in programming, machine learning, and scientific communication.
 
 ## Skills
 
