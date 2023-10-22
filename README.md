@@ -67,8 +67,8 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - To identify the plant seedlings species from 12 different species using a convolutional neural network.
 - **Skills & Tools Covered**: Working with images, **Computer Vision, Keras, CNN**
 
-**Bank Customer Churn Prediction
-Course: Introduction to Neural Networks**
+**Bank Customer Churn Prediction** (https://github.com/sudhasharma529/Deep-neural-networks)
+**Course: Introduction to Neural Networks**
 - To help the operations team identify the customers that are more likely to churn by building an artificial Neural Network from scratch.
 - **Skills & Tools Covered**: **Tensorflow, Keras, ANN**, Google Colab.
 
