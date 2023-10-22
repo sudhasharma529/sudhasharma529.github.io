@@ -12,7 +12,7 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - **Postgraduate Program in Data Science & Business Analytics**  *McCombs School of Business, UT Austin, United States, 2022*
 - **Computational Neuroscience**, *Neuromatch Academy, 2020*
   
-## Experience
+## Experience & skills acquired
 
 **Postdoctoral Associate**  *Baylor College of Medicine*  *Houston, Texas, United States*  *2021-present*
 - Studying how action timing is achieved by motor programming. 
