@@ -15,9 +15,8 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 ## Experience & skills acquired
 
 **Postdoctoral Associate**  *Baylor College of Medicine*  *Houston, Texas, United States*  *2021-present*
-- Studying how action timing is achieved by motor programming. 
-- Developing methods to analyze high-dimensional data to study magnetic sensing in free-moving birds. 
-- Developed and presented an LSTM neural network to predict performance based on the initial state.
+- Studying how action timing is achieved by motor programming. (https://github.com/sudhasharma529/JML)
+- Developing methods to analyze high-dimensional data to study magnetic sensing in free-moving birds. (https://github.com/sudhasharma529/MagneticStimulation-DataAnalysis)
 
 **Course Projects**
  -Extensive experience studying datasets and producing actionable business insights and strategic recommendations. 
@@ -72,7 +71,7 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - Developed hardware-software interface for recording neural signals.
 - Created GUIs for stimulus delivery.
 - Performed statistical analysis using machine learning algorithms.
-- Developed methods for recording and data analysis pipelines to study data using 2-photon microscopy, **increasing the reward to effort ratio by 80%**.
+- Developed methods for recording and data analysis pipelines to study data using 2-photon microscopy, **increasing the reward to effort ratio by 80%**.(https://github.com/sudhasharma529/AuditoryCortexImaging-work)
 - Compiled and wrote manuscripts leading to publications and presentations at international conferences.
 - Supervised and collaborated with new recruits.
 
