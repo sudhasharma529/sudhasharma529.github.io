@@ -14,7 +14,7 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - **Machine Learning**: Regression, k-means, kNN, Naive Bayes, SVM, PCA, LDA, ROC analysis
 - **Math & Statistics**: Probability & Statistics, Calculus, Linear Algebra
 - **Scientific Communication**: Expert and Public
-- 
+
 ## Certifications
 - **AI with Deep Learning** *McCombs School of Business, UT Austin, United States, 2023*
 - **Postgraduate Program in Data Science & Business Analytics**  *McCombs School of Business, UT Austin, United States, 2022*
