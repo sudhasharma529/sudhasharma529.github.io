@@ -7,6 +7,10 @@
 ## About Me
 
 Passionate neuroscientist with a Ph.D. in data-driven insights to understand the intricate workings of the brain. Experienced in complex data problem-solving and skilled in Critical thinking and Project Management. 
+### Connect with Me
+
+- [Website](https://www.yourwebsite.com/)
+- [LinkedIn](https://www.linkedin.com/in/yourusername/)
 
 
 ## Skills
