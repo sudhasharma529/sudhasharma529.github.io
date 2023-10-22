@@ -95,7 +95,7 @@ Course: Introduction to Neural Networks**
 
 ## Education
 
-- **Ph.D. in Life Sciences**, Indian Institute of Technology Kharagpur, West Bengal, India, 2015-2021
+- **Ph.D. in Neuroscience**, Indian Institute of Technology Kharagpur, West Bengal, India, 2015-2021
 - **MSc. in Life Sciences**, Jawaharlal Nehru University, New Delhi, India, 2010-2012
 - **BSc. in Life Sciences**, University of Delhi, New Delhi, India, 2007-2010
 
