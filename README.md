@@ -29,12 +29,12 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 **Course Projects**
  -Extensive experience studying datasets and producing actionable business insights and strategic recommendations. 
 
- **Unsupervised Learning**.
+**Unsupervised Learning**.
 - Analyze the stocks data, grouping the stocks based on the attributes provided, and sharing insights about the characteristics of each group.
 - **Skills & Tools Covered**: EDA, Kmeans Clustering, Hierarchical Clustering, Cluster Profiling
 
 **Model Tuning**
-- "ReneWind" is a company working on improving the machinery/processes involved in the production of wind energy using machine learning and has collected data of generator failure of wind turbines using sensors. The objective is to build various classification models, tune them and find the best one that will help identify failures so that the generator could be repaired before failing/breaking and the overall maintenance cost of the generators can be brought down.
+- "ReneWind" is a company working on improving the machinery/processes involved in the production of wind energy using machine learning and has collected data of generator failure of wind turbines using sensors. The objective is to build various classification models, tune them, and find the best one that will help identify failures so that the generator could be repaired before failing/breaking and the overall maintenance cost of the generators can be brought down.
 - **Skills & Tools Covered**: Up and downsampling, Regularization, Hyperparameter tuning
   
 **Ensemble Techniques**
@@ -46,7 +46,7 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - **Skills & Tools Covered**: EDA, Data Pre-processing, Logistic regression, Multicollinearity, Finding optimal threshold using AUC-ROC curve, Decision trees, Pruning
 
 **Supervised Learning - Foundations**
-- Analyze the used devices dataset, build a model which will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
+- Analyze the used devices dataset, build a model that will help develop a dynamic pricing strategy for used and refurbished devices, and identify factors that significantly influence the price.
 - **Skills & Tools Covered**: EDA, Linear Regression, Linear Regression assumptions, Business insights and recommendations
 
 **Business Statistics**
@@ -59,8 +59,8 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 
 **Twitter Sentiment Analysis for Airline Services**
 **Course: Introduction to Natural Language Processing**
-- To identify the sentiment from a tweet to understand an airlines' customer satisfaction.
-- **Skills & Tools Covered**: Working with text, Vectorization(Count vectorizer & tf-idf vectorizer), Sentiment analysis, Parameter tuning, Confusion matrix based model evaluation
+- To identify the sentiment from a tweet to understand an airline's customer satisfaction.
+- **Skills & Tools Covered**: Working with text, Vectorization(Count vectorizer & tf-idf vectorizer), Sentiment analysis, Parameter tuning, Confusion matrix-based model evaluation
 
 **Plant Seedlings Image classification using CNNs**
 **Course: Introduction to Computer Vision**
