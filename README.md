@@ -50,17 +50,17 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - **Skills & Tools Covered**: Exploratory Data Analysis (Variable Identification, Univariate analysis, Bi-Variate analysis), **Python**
 
 **Twitter Sentiment Analysis for Airline Services**(https://github.com/sudhasharma529/TwitterDataAnalysis)
-**Course: Introduction to Natural Language Processing**
+- **Course: Introduction to Natural Language Processing**
 - To identify the sentiment from a tweet to understand an airline's customer satisfaction.
 - **Skills & Tools Covered**: **Working with text, Vectorization(Count vectorizer & tf-idf vectorizer), Sentiment analysis**, Parameter tuning, Confusion matrix-based model evaluation
 
 **Plant Seedlings Image classification using CNNs**(https://github.com/sudhasharma529/Computer-Vision-Project)
-**Course: Introduction to Computer Vision**
+- **Course: Introduction to Computer Vision**
 - To identify the plant seedlings species from 12 different species using a convolutional neural network.
 - **Skills & Tools Covered**: Working with images, **Computer Vision, Keras, CNN**
 
 **Bank Customer Churn Prediction** (https://github.com/sudhasharma529/Deep-neural-networks)
-**Course: Introduction to Neural Networks**
+- **Course: Introduction to Neural Networks**
 - To help the operations team identify the customers that are more likely to churn by building an artificial Neural Network from scratch.
 - **Skills & Tools Covered**: **Tensorflow, Keras, ANN**, Google Colab.
 
