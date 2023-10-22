@@ -7,11 +7,6 @@
 ## About Me
 
 Passionate neuroscientist with a Ph.D. in data-driven insights to understand the intricate workings of the brain. Experienced in complex data problem-solving and skilled in Critical thinking and Project Management. 
-### Connect with Me
-
-- [Website](https://www.yourwebsite.com/)
-- [LinkedIn](https://www.linkedin.com/in/yourusername/)
-
 
 ## Skills
 
@@ -19,8 +14,10 @@ Passionate neuroscientist with a Ph.D. in data-driven insights to understand the
 - **Machine Learning**: Regression, k-means, kNN, Naive Bayes, SVM, PCA, LDA, ROC analysis
 - **Math & Statistics**: Probability & Statistics, Calculus, Linear Algebra
 - **Scientific Communication**: Expert and Public
+- 
 ## Certifications
-- **Postgraduate Program in Data Science & Business Analytics**  *Texas McCombs, UT Austin, United States, 2022-23*
+- **AI with Deep Learning** *McCombs School of Business, UT Austin, United States, 2023*
+- **Postgraduate Program in Data Science & Business Analytics**  *McCombs School of Business, UT Austin, United States, 2022*
 - **Computational Neuroscience**, *Neuromatch Academy, 2020*
   
 ## Experience
@@ -89,7 +86,7 @@ Course: Introduction to Neural Networks**
 
 **Project Assistant**  *National Brain Research Center*  *Manesar, India*  *2012-2014*
 
-- Analyzed audio recordings to perform statistical analysis to study changes in the acoustical properties of bird songs.
+- Analyzed audio files to characterize the spectrotemporal properties of bird songs.
 - Managed operational requirements of the lab.
 
 **Master's Dissertation**  *Jawaharlal Nehru University* *New Delhi, India*  *2010-2012*
